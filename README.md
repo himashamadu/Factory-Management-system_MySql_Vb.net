@@ -4,5 +4,5 @@
 Screenshots
 
 <div align="center">
-    <img src="/Screenshots/ScreenShot.PNG" width="400px"></img> 
+    <img src="https://github.com/himashamadu/Thermoline/blob/master/Screenshot/ScreenShot.PNG" width="400px"></img> 
 </div>
